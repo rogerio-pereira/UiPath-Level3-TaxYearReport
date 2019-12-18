@@ -1649,11 +1649,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "01_Dispatcher",
-      "projectName": "01_Dispatcher",
-      "projectPath": "C:\\UiPath\\02\\01_Dispatcher\\.local",
+      "projectUniqueName": "02_Performer",
+      "projectName": "02_Performer",
+      "projectPath": "C:\\UiPath\\02\\02_Performer\\.local",
       "packagesPath": "C:\\Users\\Rogerio\\.nuget\\packages\\",
-      "outputPath": "C:\\UiPath\\02\\01_Dispatcher\\.local"
+      "outputPath": "C:\\UiPath\\02\\02_Performer\\.local"
     },
     "frameworks": {
       "net461": {
